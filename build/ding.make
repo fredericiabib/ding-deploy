@@ -207,6 +207,13 @@ projects[dynamo][download][type] = "git"
 projects[dynamo][download][url] = "https://github.com/dingproject/dynamo.git"
 projects[dynamo][download][revision] = "v2.1.5"
 
+; Fredericia theme
+
+projects[fredericia][type] = "theme"
+projects[fredericia][download][type] = "git"
+projects[fredericia][download][url] = "https://github.com/fredericiabib/fredericia.git"
+
+
 ; Ding modules
 
 projects[alma][type] = "module"

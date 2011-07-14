@@ -154,6 +154,9 @@ projects[rules][subdir] = "contrib"
 projects[rules][version] = "1.3"
 projects[rules][patch][] = "https://github.com/downloads/dingproject/ding-deploy/rules_dont_clear_cache_on_form_alter.patch"
 
+projects[scheduler][subdir] = "contrib"
+projects[scheduler][version] = "1.8"
+
 projects[similarterms][subdir] = "contrib"
 projects[similarterms][version] = "1.18"
 

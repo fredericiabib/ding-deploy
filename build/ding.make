@@ -254,6 +254,11 @@ projects[webtrends][download][type] = "git"
 projects[webtrends][download][url] = "https://github.com/dingproject/webtrends.git"
 projects[webtrends][download][revision] = "v1.1.0"
 
+; Fredericia Modules
+
+projects[securepages][subdir] = "contrib"
+projects[securepages][version] = "1.9"
+
 ; Libraries
 libraries[ting-client][download][type] = "git"
 libraries[ting-client][download][url] = "https://github.com/dingproject/ting-client.git"

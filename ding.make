@@ -272,13 +272,13 @@ projects[webtrends][download][revision] = "v1.1.2"
 
 ; Fredericia Modules
 
-projects[securepages][subdir] = "contrib"
-projects[securepages][version] = "1.9"
-
 projects[ding_place2book][type] = "module"
 projects[ding_place2book][download][type] = "git"
 projects[ding_place2book][download][url] = "https://github.com/vejlebib/ding_place2book.git"
 projects[ding_place2book][download][revision] = "v1.0.1"
+
+projects[scheduler][subdir] = "contrib";
+project[scheduler][version] = "1.8";
 
 
 ; Libraries

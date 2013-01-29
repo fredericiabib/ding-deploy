@@ -310,9 +310,6 @@ projects[ding_place2book][download][type] = "git"
 projects[ding_place2book][download][url] = "https://github.com/vejlebib/ding_place2book.git"
 projects[ding_place2book][download][revision] = "v1.0.1"
 
-projects[scheduler][subdir] = "contrib";
-projects[scheduler][version] = "1.8";
-
 ; Libraries
 libraries[ting-client][destination] = "modules/ting/lib"
 libraries[ting-client][download][type] = "git"

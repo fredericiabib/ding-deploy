@@ -280,6 +280,10 @@ projects[ding_redia_feed][download][type] = "git"
 projects[ding_redia_feed][download][url] = "https://github.com/dingproject/ding_redia_feed.git"
 projects[ding_redia_feed][download][revision] = "v1.1.0"
 
+projects[ding_tabroll][type] = "module"
+projects[ding_tabroll][download][type] = "git"
+projects[ding_tabroll][download][url] = "https://github.com/vejlebib/ding_tabroll.git"
+
 projects[ding_tema_sites][type] = module
 projects[ding_tema_sites][download][type] = git
 projects[ding_tema_sites][download][url] = https://github.com/dingproject/ding_tema_sites.git
@@ -301,6 +305,13 @@ projects[webtrends][download][url] = "https://github.com/dingproject/webtrends.g
 projects[webtrends][download][revision] = "v1.1.2"
 
 ; Fredericia Modules
+projects[fbib_base][type] = "module"
+projects[fbib_base][download][type] = "git"
+projects[fbib_base][download][url] = "https://github.com/fredericiabib/fbib_base.git"
+
+projects[fbib_panels_overwrites][type] = "module"
+projects[fbib_panels_overwrites][download][type] = "git"
+projects[fbib_panels_overwrites][download][url] = "https://github.com/fredericiabib/fbib_panels_overwrites.git"
 
 projects[securepages][subdir] = "contrib"
 projects[securepages][version] = "1.9"

@@ -254,6 +254,7 @@ projects[alma][type] = "module"
 projects[alma][download][type] = "git"
 projects[alma][download][url] = "https://github.com/dingproject/alma.git"
 projects[alma][download][revision] = "v1.8.0"
+projects[alma][patch][] = "https://github.com/dingproject/alma/pull/15.patch"
 
 projects[openruth][type] = "module"
 projects[openruth][download][type] = "git"
